@@ -1,0 +1,8 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to Banking Project loans related QA APIs "
+  contactDetails:
+    name: "Ferhat Şeker - Software Developer"
+    email: "ferhat@gmail.com"
