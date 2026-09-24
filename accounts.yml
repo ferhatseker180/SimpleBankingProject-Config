@@ -1,0 +1,8 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related local APIs "
+  contactDetails:
+    name: "Ferhat Şeker - Software Developer"
+    email: "ferhat@gmail.com"
