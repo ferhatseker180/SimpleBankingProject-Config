@@ -1,0 +1,8 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to Banking Project loans related Local APIs "
+  contactDetails:
+    name: "Ferhat Şeker - Software Developer"
+    email: "ferhat@gmail.com"
