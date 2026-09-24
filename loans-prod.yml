@@ -1,0 +1,7 @@
+version: "1.0"
+
+loans:
+  message: "Welcome to Banking Project loans related prod APIs "
+  contactDetails:
+    name: "Ferhat Şeker - Software Engineer"
+    email: "ferhat@gmail.com"
