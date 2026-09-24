@@ -1,0 +1,8 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to Banking Project accounts related QA APIs "
+  contactDetails:
+    name: "Ferhat Şeker - Software Developer"
+    email: "ferhat@gmail.com"
