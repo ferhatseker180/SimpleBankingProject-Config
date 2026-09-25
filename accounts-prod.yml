@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Banking Project accounts related prod APIs "
+  message: "Welcome to Banking Project accounts related prodaction APIs "
   contactDetails:
     name: "Ferhat Şeker - Software Engineer"
-    email: "ferhat123@gmail.com"
+    email: "ferhat@gmail.com"
